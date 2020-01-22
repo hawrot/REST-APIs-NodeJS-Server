@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbe76b15-934d-47fc-8e82-8093659dde84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    <list default="true" id="dbe76b15-934d-47fc-8e82-8093659dde84" name="Default Changelist" comment="Create feed routes and controller">
+      <change afterPath="$PROJECT_DIR$/controllers/feed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/feed.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1WlBRyZ6cuY2HBg4tPIDHB8IJJ0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,9 +32,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579714296341</updated>
-      <workItem from="1579714297856" duration="387000" />
+      <workItem from="1579714297856" duration="771000" />
+      <workItem from="1579721270955" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="Add express">
       <created>1579714603736</created>
@@ -59,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579714603736</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create simple server">
+      <created>1579714725999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579714725999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,16 +85,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add express" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add express" />
+    <MESSAGE value="Create simple server" />
+    <MESSAGE value="Create feed routes and controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create feed routes and controller" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="51" key="CommitChangelistDialog2" timestamp="1579714603551">
+    <state x="301" y="51" key="CommitChangelistDialog2" timestamp="1579715068247">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="301" y="51" key="CommitChangelistDialog2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579714603551" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1579714587579">
+    <state x="301" y="51" key="CommitChangelistDialog2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579715068247" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1579721497607">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579714587579" />
+    <state x="221" y="89" key="SettingsEditor/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579721497607" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1579715078205">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579715078205" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579714850160">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579714850160" />
   </component>
 </project>
