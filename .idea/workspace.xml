@@ -4,6 +4,7 @@
     <list default="true" id="dbe76b15-934d-47fc-8e82-8093659dde84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/feed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/feed.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <workItem from="1579714297856" duration="771000" />
       <workItem from="1579721270955" duration="2718000" />
       <workItem from="1579778793547" duration="671000" />
-      <workItem from="1580308160114" duration="9101000" />
+      <workItem from="1580308160114" duration="9456000" />
     </task>
     <task id="LOCAL-00001" summary="Add express">
       <created>1579714603736</created>
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580392595935</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update the post - fix">
+      <created>1580393001318</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580393001318</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,13 +236,14 @@
     <MESSAGE value="Fetch the posts from DB" />
     <MESSAGE value="Fix for image serving" />
     <MESSAGE value="Update the post" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update the post" />
+    <MESSAGE value="Update the post - fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the post - fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580392595719">
+    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580393000982">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580392595719" />
+    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580393000982" />
     <state x="301" y="51" key="CommitChangelistDialog2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579724491165" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1579721497607">
       <screen x="0" y="0" width="1440" height="900" />
