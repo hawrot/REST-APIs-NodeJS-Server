@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dbe76b15-934d-47fc-8e82-8093659dde84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/feed.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/post.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
       <workItem from="1579714297856" duration="771000" />
       <workItem from="1579721270955" duration="2718000" />
       <workItem from="1579778793547" duration="671000" />
-      <workItem from="1580308160114" duration="4193000" />
+      <workItem from="1580308160114" duration="5081000" />
     </task>
     <task id="LOCAL-00001" summary="Add express">
       <created>1579714603736</created>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580313749565</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Export the model">
+      <created>1580313809278</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580313809278</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,22 +188,23 @@
     <MESSAGE value="Add mongoose" />
     <MESSAGE value="Connect to the DB" />
     <MESSAGE value="Add model of 'POST'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add model of 'POST'" />
+    <MESSAGE value="Export the model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Export the model" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580313749345">
+    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580313809120">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580313749345" />
+    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580313809120" />
     <state x="301" y="51" key="CommitChangelistDialog2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579724491165" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1579721497607">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579721497607" />
-    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2" timestamp="1580311218806">
+    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2" timestamp="1580313812711">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2/0.23.3840.2137@0.23.3840.2137" timestamp="1580311218806" />
+    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2/0.23.3840.2137@0.23.3840.2137" timestamp="1580313812711" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579724517164" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579723992576">
       <screen x="0" y="0" width="1440" height="900" />
