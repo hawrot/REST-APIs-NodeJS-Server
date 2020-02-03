@@ -69,7 +69,7 @@
       <workItem from="1579778793547" duration="671000" />
       <workItem from="1580308160114" duration="11870000" />
       <workItem from="1580681720505" duration="12816000" />
-      <workItem from="1580737940337" duration="812000" />
+      <workItem from="1580737940337" duration="1326000" />
     </task>
     <task id="LOCAL-00001" summary="Add express">
       <created>1579714603736</created>
@@ -295,14 +295,20 @@
       <option name="project" value="LOCAL" />
       <updated>1580738654819</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Add error handler">
+      <created>1580738807419</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1580738807419</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add validator package" />
     <MESSAGE value="Add validation for title and content" />
     <MESSAGE value="Add server validation and messages" />
     <MESSAGE value="Add mongoose" />
@@ -327,13 +333,14 @@
     <MESSAGE value="Add auth working" />
     <MESSAGE value="App finished" />
     <MESSAGE value="add async await for fetching posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="add async await for fetching posts" />
+    <MESSAGE value="Add error handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add error handler" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580738654537">
+    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580738807076">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580738654537" />
+    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580738807076" />
     <state x="301" y="51" key="CommitChangelistDialog2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579724491165" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1579721497607">
       <screen x="0" y="0" width="1440" height="900" />
