@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dbe76b15-934d-47fc-8e82-8093659dde84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/feed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/is-auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/is-auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/feed.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,8 @@
       <workItem from="1579721270955" duration="2718000" />
       <workItem from="1579778793547" duration="671000" />
       <workItem from="1580308160114" duration="11870000" />
-      <workItem from="1580681720505" duration="12600000" />
+      <workItem from="1580681720505" duration="12816000" />
+      <workItem from="1580737940337" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="Add express">
       <created>1579714603736</created>
@@ -287,14 +281,20 @@
       <option name="project" value="LOCAL" />
       <updated>1580687777895</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="App finished">
+      <created>1580697178443</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1580697178443</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Generate sample data" />
     <MESSAGE value="Create post through API" />
     <MESSAGE value="Add validator package" />
     <MESSAGE value="Add validation for title and content" />
@@ -319,22 +319,23 @@
     <MESSAGE value="Add sign in logic" />
     <MESSAGE value="Add log in auth" />
     <MESSAGE value="Add auth working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add auth working" />
+    <MESSAGE value="App finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="App finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580687777692">
+    <state x="2488" y="1132" key="CommitChangelistDialog2" timestamp="1580697178198">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580687777692" />
+    <state x="2488" y="1132" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580697178198" />
     <state x="301" y="51" key="CommitChangelistDialog2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579724491165" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1579721497607">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579721497607" />
-    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2" timestamp="1580687771583">
+    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2" timestamp="1580697213674">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2/0.23.3840.2137@0.23.3840.2137" timestamp="1580687771583" />
+    <state x="2239" y="1195" key="Vcs.Push.Dialog.v2/0.23.3840.2137@0.23.3840.2137" timestamp="1580697213674" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1579724517164" />
     <state x="1027" y="488" width="1787" height="1606" key="search.everywhere.popup" timestamp="1580395901605">
       <screen x="0" y="23" width="3840" height="2137" />
